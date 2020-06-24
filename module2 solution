@@ -1,0 +1,39 @@
+<!DOCTYPE>
+
+<html>
+    <head>
+        <title>
+            Assignment Solution for Module 2
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <link rel="stylesheet" type="text/css" href="1.css">
+    </head>
+    <body class="container">
+        <br>
+        <h2> Our Menu </h2>
+        <br>
+        <div id="left">
+            <div id="one">
+                <p class="temp"><b>Chicken</b></p>
+            </div>
+            <br>
+            <p>asddfffd</p>
+        </div>
+
+        <div id="center">
+            <div id="two">
+                <p class="temp"><b>Beef</b></p>
+            </div>
+            <br>
+            <p>asddfffd</p>
+        </div>
+
+        <div id="right">
+            <div id="three">
+                <p class="temp"><b>Sushi</b></p>
+            </div>
+            <br>
+            <p>asddfffd</p>
+        </div>
+    </body>
+</html> 
